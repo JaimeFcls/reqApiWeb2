@@ -1,5 +1,4 @@
-O Link da api é : https://api.mercadolibre.com/
-O Link de recursos usados : https://developers.mercadolivre.com.br/pt_br/publicacao-de-produtos/itens-e-buscas
+O Link da api e seus recursos : https://developers.mercadolivre.com.br/
 
 Como a primeira atividade fizemos uma aplicação para gerar pedidos,
 com a Api do mercado livre é possivel buscar produtos, obtendo seu nome e preço.
